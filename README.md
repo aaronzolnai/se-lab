@@ -6,7 +6,7 @@ The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
-- The project is implemented in Java 21.
+- The project is implemented in Java 25.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
 
@@ -39,4 +39,3 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-// TODO: remove this line
